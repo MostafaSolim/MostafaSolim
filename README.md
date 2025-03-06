@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently available for any inquiries<br>👯 I am open to any collaborations<br>🤝 I am looking for help with front-end languages and any C languages<br>🌱 I am currently learning Java and possibly C++<br>💬 Ask me about back-end Java<br>
+🔭 I am currently available for any inquiries<br>👯 I am open to any collaborations<br>🤝 I am looking for help with front-end languages and any C languages<br>🌱 I am currently learning Java and C++ and Python<br>💬 Ask me about back-end Java<br>
 
 
 ## 🌐 Socials:
