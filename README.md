@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
 <h3 align="center">A future Data Scientist from Egypt</h3>
 
