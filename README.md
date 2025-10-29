@@ -8,7 +8,7 @@ Data Science Student from Egypt
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/mostafa soliman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa soliman" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/mostafa-soliman-76049529b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa soliman" height="30" width="40" /></a>
 <a href="mailto:mostafasol@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="mostafasol" height="30" width="40" /></a>
 </p>
 
