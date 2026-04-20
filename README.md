@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
 
-Data Science Student from Egypt
-
+Data Science Student - Egypt
+https://komarev.com/ghpvc/?username=MostafaSolim
 - 🔭 I’m trying to learn JavaScript
 - 🌱 I’m currently developing my skills in Scikit-learn
 - 🤝 I’m still learning
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -22,3 +23,5 @@ Data Science Student from Egypt
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MostafaSolim&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![](https://hit.yhype.me/github/profile?account_id=176306687)
