@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
 
 <p align="center">
-  <strong>Software Engineering Student | Egypt</strong>
+  <strong>Data Science Student | Egypt</strong>
 </p>
 
 <p align="center">
-  <a href="https://hits.dwyl.com/MostafaSolim/MostafaSolim">
-    <img src="https://hits.dwyl.com/MostafaSolim/MostafaSolim.svg?style=flat-square&show=unique" alt="Unique Profile Views">
-  </a>
 </p>
 
 ---
