@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
 
 Data Science Student - Egypt
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marawan1805&label=Profile%20views&color=0e75b6&style=flat" alt="marawan1805" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MostafaSolim&label=Profile%20views&color=0e75b6&style=flat" alt="marawan1805" /> </p>
 - 🔭 I’m trying to learn JavaScript
 - 🌱 I’m currently developing my skills in Scikit-learn
 - 🤝 I’m still learning
