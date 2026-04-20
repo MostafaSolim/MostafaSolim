@@ -27,3 +27,5 @@ Data Science Student - Egypt
 [![](https://visitcount.itsvg.in/api?id=MostafaSolim&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![](https://hit.yhype.me/github/profile?account_id=176306687)
+
+![HitCount](https://hits.dwyl.com/MostafaSolim/MostafaSolim.svg?style=flat-square&show=unique)](http://hits.dwyl.com/MostafaSolim/MostafaSolim)
