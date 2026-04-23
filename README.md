@@ -10,10 +10,9 @@
 ---
 
 ### 🔭 About Me
-- 🚀 **Currently building:** Mobile applications with **React Native** and **FastAPI**.
-- 🧠 **Data Science:** Working with **Scikit-learn** and high-performance data tools like **Polars**.
+- 🚀 **Currently building:** Multiple projects using React Vite.
+- 🧠 **Data Science:** Working with **Scikit-learn** and high-performance data tools like **Pandas**.
 - 🎨 **Design:** Focused on **UI/UX design** and accessibility in Figma.
-- ⚡ **Fun Fact:** I've automated complex image processing workflows using **OpenCV**.
 
 ### 🤝 Connect with me:
 <p align="left">
