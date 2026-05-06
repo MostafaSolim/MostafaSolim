@@ -4,6 +4,10 @@
   <strong>Data Science Student | Egypt</strong>
 </p>
 
+https://komarev.com/ghpvc/?username=mostafasolim&label=Profile views&color=0e75b6&style=flat" alt="MostafaSolim
+
+👆 this may include duplicate profile views
+
 <p align="center">
 </p>
 
