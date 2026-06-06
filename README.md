@@ -22,7 +22,7 @@
 ### 🤝 Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mostafa-soliman-76049529b" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa soliman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mostafasolim" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa soliman" height="30" width="40" /></a>
 <a href="mailto:mostafasol@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="mostafasol" height="30" width="40" /></a>
 </p>
 
